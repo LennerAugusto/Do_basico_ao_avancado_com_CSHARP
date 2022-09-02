@@ -1,0 +1,17 @@
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\obj\Debug\net6.0-windows\Exercicio$.csproj.AssemblyReference.cache
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\obj\Debug\net6.0-windows\Exercicio_.Form1.resources
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\obj\Debug\net6.0-windows\Exercicio$.csproj.GenerateResource.cache
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\obj\Debug\net6.0-windows\Exercicio$.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\obj\Debug\net6.0-windows\Exercicio$.AssemblyInfoInputs.cache
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\obj\Debug\net6.0-windows\Exercicio$.AssemblyInfo.cs
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\obj\Debug\net6.0-windows\Exercicio$.csproj.CoreCompileInputs.cache
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\bin\Debug\net6.0-windows\Exercicio$.exe
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\bin\Debug\net6.0-windows\Exercicio$.deps.json
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\bin\Debug\net6.0-windows\Exercicio$.runtimeconfig.json
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\bin\Debug\net6.0-windows\Exercicio$.dll
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\bin\Debug\net6.0-windows\Exercicio$.pdb
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\obj\Debug\net6.0-windows\Exercicio$.dll
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\obj\Debug\net6.0-windows\refint\Exercicio$.dll
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\obj\Debug\net6.0-windows\Exercicio$.pdb
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\obj\Debug\net6.0-windows\Exercicio$.genruntimeconfig.cache
+C:\Users\Lenner\Desktop\Do_basico_ao_avancado_com_CSHARP-\Exercícios faculdade\Aula 6 (introdução POO)\Exercicio$\Exercicio$\obj\Debug\net6.0-windows\ref\Exercicio$.dll
