@@ -1,0 +1,10 @@
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula12 (herança)\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula12 (herança)\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula12 (herança)\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula12 (herança)\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csprojAssemblyReference.cache
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula12 (herança)\Exercicio2\Exercicio2\obj\Debug\Exercicio2.Form1.resources
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula12 (herança)\Exercicio2\Exercicio2\obj\Debug\Exercicio2.Properties.Resources.resources
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula12 (herança)\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.GenerateResource.cache
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula12 (herança)\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula12 (herança)\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula12 (herança)\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb
