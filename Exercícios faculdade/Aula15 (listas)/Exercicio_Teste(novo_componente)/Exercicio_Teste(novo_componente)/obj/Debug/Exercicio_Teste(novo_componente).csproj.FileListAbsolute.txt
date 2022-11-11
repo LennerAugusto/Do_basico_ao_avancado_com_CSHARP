@@ -1,0 +1,10 @@
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula15 (listas)\Exercicio_Teste(novo_componente)\Exercicio_Teste(novo_componente)\bin\Debug\Exercicio_Teste(novo_componente).exe.config
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula15 (listas)\Exercicio_Teste(novo_componente)\Exercicio_Teste(novo_componente)\bin\Debug\Exercicio_Teste(novo_componente).exe
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula15 (listas)\Exercicio_Teste(novo_componente)\Exercicio_Teste(novo_componente)\bin\Debug\Exercicio_Teste(novo_componente).pdb
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula15 (listas)\Exercicio_Teste(novo_componente)\Exercicio_Teste(novo_componente)\obj\Debug\Exercicio_Teste(novo_componente).csprojAssemblyReference.cache
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula15 (listas)\Exercicio_Teste(novo_componente)\Exercicio_Teste(novo_componente)\obj\Debug\Exercicio_Teste_novo_componente_.Form1.resources
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula15 (listas)\Exercicio_Teste(novo_componente)\Exercicio_Teste(novo_componente)\obj\Debug\Exercicio_Teste_novo_componente_.Properties.Resources.resources
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula15 (listas)\Exercicio_Teste(novo_componente)\Exercicio_Teste(novo_componente)\obj\Debug\Exercicio_Teste(novo_componente).csproj.GenerateResource.cache
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula15 (listas)\Exercicio_Teste(novo_componente)\Exercicio_Teste(novo_componente)\obj\Debug\Exercicio_Teste(novo_componente).csproj.CoreCompileInputs.cache
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula15 (listas)\Exercicio_Teste(novo_componente)\Exercicio_Teste(novo_componente)\obj\Debug\Exercicio_Teste(novo_componente).exe
+K:\Do_basico_ao_avancado_com_CSHARP\Exercícios faculdade\Aula15 (listas)\Exercicio_Teste(novo_componente)\Exercicio_Teste(novo_componente)\obj\Debug\Exercicio_Teste(novo_componente).pdb
